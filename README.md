@@ -1,6 +1,6 @@
 #  Todo Box
 
-내 취향대로 만들어 본 Todo Box 앱. https://hyesunzzang.tistory.com/62를 참고하였다.
+내 취향대로 만들어 본 Todo Box 앱. [여기](https://hyesunzzang.tistory.com/62)를 참고하였다.
 
 
 
