@@ -17,10 +17,11 @@
 ## Screenshots
 
 <div>
-    <img width="200" src="./screenshots/01.png">
-    <img width="200" src="./screenshots/02.png">
-    <img width="200" src="./screenshots/03.png">
+    <img width="200" src="./screenshots/01.PNG">
+    <img width="200" src="./screenshots/02.PNG">
+    <img width="200" src="./screenshots/03.PNG">
 </div>
+
 
 
 
